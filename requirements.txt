@@ -1,0 +1,7 @@
+geopfa
+numpy
+pandas
+geopandas
+shapely
+rasterio
+scipy
