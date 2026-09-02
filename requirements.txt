@@ -1,0 +1,5 @@
+geopfa>=0.0.21
+geopandas>=1.0
+rasterio>=1.3
+shapely>=2.0
+numpy>=1.24
